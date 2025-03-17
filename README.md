@@ -1,0 +1,1 @@
+this is a project which uses data from a 762 element column to find the average and std of the dataset, then plot it using the matplotlib library. The data is from an open source kaggle dataset on post graduate college salaries. 
