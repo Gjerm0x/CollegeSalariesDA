@@ -38,8 +38,6 @@ People who are well-compensated are more likely to feel satisfied and, as a resu
 0.75 $115,400
 0.99 $165,594
 
-markdown
-Copy
 
 **% High Meaning Quantiles**
 0.01 27%
@@ -47,9 +45,6 @@ Copy
 0.50 52%
 0.75 63%
 0.99 86.93%
-
-yaml
-Copy
 
 ---
 
