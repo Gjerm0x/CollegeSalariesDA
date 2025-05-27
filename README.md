@@ -70,9 +70,9 @@ People who are well-compensated are more likely to feel satisfied and, as a resu
 
 | Segment                                 | Criteria                                           |
 |----------------------------------------|----------------------------------------------------|
-| **Best Careers**                       | > 63% meaning & > $115,400 mid-career pay         |
-| **Trade-offs (Money but not Meaning)** | < 44% meaning & > $115,400 mid-career pay         |
-| **Meaningful but Low Pay**             | > 63% meaning & < $83,750 mid-career pay          |
+| **Best Careers(High Pay + High Meaning)**                       | > 63% meaning & > $115,400 mid-career pay         |
+| **Great Paying Careers(High Pay, Low Meaning**) | < 44% meaning & > $115,400 mid-career pay         |
+| **Meaningful Careers(Low Pay, High Meaning**             | > 63% meaning & < $83,750 mid-career pay          |
 | **Avoid (Low Pay + Low Meaning)**      | < 44% meaning & < $83,750 mid-career pay          |
 
 ---
