@@ -114,3 +114,6 @@ In sum, the data suggests a nuanced relationship between **money and meaning**. 
 
 ### Top 25 Lowest % High Meaning Majors
 *(Table printed via script)*
+
+## Data Source
+https://www.kaggle.com/datasets/rathoddharmendra/post-college-salaries
